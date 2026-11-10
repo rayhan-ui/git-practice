@@ -3,3 +3,5 @@ and this is the sub-content
 this is another line
 and this is another new line
 a new line
+
+bad line
